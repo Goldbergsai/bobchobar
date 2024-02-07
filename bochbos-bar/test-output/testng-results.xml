@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="API Testing Suite" duration-ms="10419" started-at="2024-02-07T12:48:39Z" finished-at="2024-02-07T12:48:49Z">
+    <groups>
+    </groups>
+    <test name="API Tests" duration-ms="10419" started-at="2024-02-07T12:48:39Z" finished-at="2024-02-07T12:48:49Z">
+      <class name="commonMethods.Testscripts">
+        <test-method status="PASS" signature="createOrders()[pri:1, instance:commonMethods.Testscripts@47c62251]" name="createOrders" duration-ms="2869" started-at="2024-02-07T18:18:39Z" finished-at="2024-02-07T18:18:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrders -->
+        <test-method status="PASS" signature="getOrderDetailsById()[pri:2, instance:commonMethods.Testscripts@47c62251]" name="getOrderDetailsById" duration-ms="1037" started-at="2024-02-07T18:18:42Z" finished-at="2024-02-07T18:18:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getOrderDetailsById -->
+        <test-method status="PASS" signature="getAllOrders()[pri:3, instance:commonMethods.Testscripts@47c62251]" name="getAllOrders" duration-ms="6512" started-at="2024-02-07T18:18:43Z" finished-at="2024-02-07T18:18:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllOrders -->
+      </class> <!-- commonMethods.Testscripts -->
+    </test> <!-- API Tests -->
+  </suite> <!-- API Testing Suite -->
+</testng-results>

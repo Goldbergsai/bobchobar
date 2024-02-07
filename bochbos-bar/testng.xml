@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="API Testing Suite">
+
+    <test name="API Tests">
+        <classes>
+            <class name="commonMethods.Testscripts"/>
+        </classes>
+    </test>
+
+</suite>
